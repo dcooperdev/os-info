@@ -1,19 +1,19 @@
 {
-  "name": "os-info",
-  "version": "1.0.0",
+  "name": "host-os-info",
+  "version": "1.0.9",
   "description": "get host os information from console",
   "main": "index.js",
   "scripts": {
-    "os-info": "node ./index.js"
+    "host-os-info": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcooperdev/os-info.git"
+    "url": "git+https://github.com/dcooperdev/host-os-info.git"
   },
   "author": "David Cooper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dcooperdev/os-info/issues"
+    "url": "https://github.com/dcooperdev/host-os-info/issues"
   },
-  "homepage": "https://github.com/dcooperdev/os-info#readme"
+  "homepage": "https://github.com/dcooperdev/host-os-info#readme"
 }
