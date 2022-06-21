@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const util = require('util');
 const {
     type,
@@ -13,14 +15,14 @@ const {
     loadavg,
     networkInterfaces,
     tmpdir,
-} = require('./src/os-info');
+} = require('./src/host-os-info');
 
 const getOSInfo = () => {
     const parametters = process.argv.slice(2);
     
     if (!parametters ||parametters.length === 0|| (parametters.length === 1 && parametters[0] === 'help')) {
         console.log(`
-            Usage: os-info [help]
+            Usage: host-os-info [help]
             
             help                Show this help
             type                Show the type of operating system

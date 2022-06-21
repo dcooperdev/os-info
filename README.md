@@ -2,15 +2,15 @@
 
 ### use
 
-    npx @dcooperdev/os-info <arg1> <arg2> ... <argN>
+    npx host-host-os-info <arg1> <arg2> ... <argN>
 
 ### install
 
-    npm i @dcooperdev/os-info
+    npm i host-host-os-info
 
 ### require
 
-    const osInfo = require('@dcooperdev/os-info');
+    const osInfo = require('host-host-os-info');
 
 ###Then use it like a function
 
@@ -18,7 +18,7 @@
 
 ### arguments
 
-    Usage: os-info <arg1> <arg2> ... <argN>
+    Usage: host-os-info <arg1> <arg2> ... <argN>
             
         help                Show this help
         type                Show the type of operating system
