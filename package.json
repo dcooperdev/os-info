@@ -3,8 +3,11 @@
   "version": "1.0.9",
   "description": "get host os information from console",
   "main": "index.js",
-  "scripts": {
+  "bin": {
     "host-os-info": "index.js"
+  },
+  "scripts": {
+    "host-os-info": "node ./index.js"
   },
   "repository": {
     "type": "git",
