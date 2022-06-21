@@ -1,5 +1,5 @@
 {
-  "name": "os-info",
+  "name": "@dcooperdev/os-info",
   "version": "1.0.0",
   "description": "get host os information from console",
   "main": "index.js",
