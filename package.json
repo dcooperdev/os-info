@@ -4,7 +4,7 @@
   "description": "get host os information from console",
   "main": "index.js",
   "scripts": {
-    "host-os-info": "node ./index.js"
+    "host-os-info": "index.js"
   },
   "repository": {
     "type": "git",
