@@ -1,6 +1,6 @@
 {
   "name": "host-os-info",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "get host os information from console",
   "main": "index.js",
   "bin": {

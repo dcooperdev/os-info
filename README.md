@@ -2,15 +2,15 @@
 
 ### use
 
-    npx host-host-os-info <arg1> <arg2> ... <argN>
+    npx host-os-info <arg1> <arg2> ... <argN>
 
 ### install
 
-    npm i host-host-os-info
+    npm i host-os-info
 
 ### require
 
-    const osInfo = require('host-host-os-info');
+    const osInfo = require('host-os-info');
 
 ###Then use it like a function
 
